@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplan9">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="568dp"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:weightSum="1">
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/menu1"
+                android:id="@+id/imageButton2"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="5dp"
+                android:onClick="menu"
+                android:background="@android:color/transparent" />
+
+            <TextView
+                android:text="AD SOYAD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_adsoyad"
+                android:layout_marginTop="21dp"
+                android:textSize="25dp"
+                android:layout_marginLeft="60dp"
+                android:fontFamily="sans-serif"
+                android:textColor="@android:color/black" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:weightSum="1">
+        <ImageButton
+            android:layout_width="80dp"
+            android:layout_height="78dp"
+            android:src="@drawable/kamera4"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="62dp"
+            android:id="@+id/kamera"
+            android:onClick="openCamera"
+            android:background="@android:color/transparent" />
+
+        <ImageButton
+            android:layout_width="80dp"
+            android:layout_height="78dp"
+            android:src="@drawable/ara2"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="80dp"
+            android:id="@+id/ara"
+            android:onClick="openCamera2"
+            android:background="@android:color/transparent" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:weightSum="1"
+            >
+
+            <TextView
+                android:text="ÜRÜN EKLE"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_marginLeft="64dp"
+                android:textSize="15dp"
+                android:id="@+id/textView2"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:text="ÜRÜN ARA"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:textSize="15dp"
+                android:layout_marginLeft="84dp"
+                android:id="@+id/textView3"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:weightSum="1"
+            >
+            <TextView
+                android:text="TAKİP ETTİKLERİM"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginLeft="95dp"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:id="@+id/takip"
+                android:textColor="@android:color/black" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

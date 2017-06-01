@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    tools:context="com.example.hatic.venus.GoruntuActivity"
+    android:background="@color/arkaplan">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:background="@color/arkaplan"
+        android:id="@+id/bir"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:id="@+id/image_goruntu"
+            android:adjustViewBounds="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/arkaplan"
+        android:id="@+id/iki"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="340dp"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp">
+
+
+            <TextView
+                android:text="FİYAT:"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="20dp"
+                android:id="@+id/textView2"
+                android:textColor="#020202"/>
+            <TextView
+                android:text="BARKOD:"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:textSize="20dp"
+                android:id="@+id/textView3"
+                android:textColor="#020202"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="340dp"
+            tools:ignore="UselessLeaf"
+            android:layout_width="450dp">
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fyt"
+                android:textSize="18dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="10dp"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="#020202" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/barkod"
+                android:textSize="18dp"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="10dp"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="#020202" />
+
+
+
+        </LinearLayout>
+
+        <Button
+            android:text="KAYDET"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:id="@+id/button_cikis"
+            android:layout_marginTop="543dp"
+            android:background="#6fcced"
+            android:layout_alignParentBottom="true"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

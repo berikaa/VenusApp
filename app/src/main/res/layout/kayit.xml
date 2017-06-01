@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplan9">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        >
+
+
+        <TextView
+            android:text="Kayıt Ol"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:id="@+id/baslik"
+            android:textSize="40dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:id="@+id/txt_ad"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="Ad" >
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/txt_soyad"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="Soyad" >
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/txt_yas"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="Yaş" >
+
+        </EditText>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <CheckBox
+                android:text="Kadın"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textColor="?attr/colorControlNormal"
+                android:textSize="18dp"
+                android:id="@+id/kadın" />
+
+            <CheckBox
+            android:text="Erkek"
+            android:layout_width="150dp"
+            android:textSize="18dp"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/colorControlNormal"
+            android:id="@+id/erkek" />
+
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/txt_email"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="E-mail"
+            android:inputType="text">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/txt_parola"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="Parola"
+            android:inputType="text"
+            android:password="true">
+
+        </EditText>
+        <EditText
+            android:id="@+id/txt_tkrparola"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="10dp"
+            android:hint="Parola"
+            android:inputType="text"
+            android:password="true">
+
+        </EditText>
+
+        <Button
+            android:text="KAYIT"
+            android:layout_width="190dp"
+            android:layout_height="60dp"
+            android:id="@+id/btn_kyt"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="125dp"
+            android:background="#FF9966"
+
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

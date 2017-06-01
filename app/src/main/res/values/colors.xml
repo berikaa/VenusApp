@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FD9080</color>
+    <color name="icon">#716f6f</color>
+    <color name="blue">#306759ff</color>
+    <color name="orange">#ff900d</color>
+    <color name="bottom_background_color">#ffc4c2bc</color>
+    <color name="polygonViewCircleStrokeColor">#d0ff900d</color>
+    <color name="polygonViewCircleBackground">#85ffcd96</color>
+    <color name="arkaplan">#85ffcd96</color>
+</resources>
+

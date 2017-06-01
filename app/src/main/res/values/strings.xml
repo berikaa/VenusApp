@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Venus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anasayfa">AnasayfaActivity</string>
+    <string name="title_activity_tarama">TaramaActivity</string>
+    <string name="dialog_polygon">İşleniyor...</string>
+    <string name="dialog_scan">Kırpılıyor...</string>
+    <string name="dialog_read">Okunuyor</string>
+    <string name="title_activity_goruntu">GoruntuActivity</string>
+    <string name="title_activity_tarama2">Tarama2Activity</string>
+    <string name="notificationtitle">VENÜS</string>
+
+</resources>

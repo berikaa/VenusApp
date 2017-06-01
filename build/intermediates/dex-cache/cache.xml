@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_437b327015964d05e6353bad1f2c9f17ce10df62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_16ce016219c5e7e6e9bbb783f4c556ee8723149c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5472842cfc69fa9fe412865bb3f4e73c1120b50e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.1.1_83756f5d110fa978708730209947ba04c88eebc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1326cb5bb5471ce314056760f1042634651c8ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0575ba3d1e9aa725249192a74ed834ee5e198bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_871d062c5b203c29d6b423649d96c3bcaa573a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_207a53d8eba0f344c2685a2113eb5c52bdf87233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fc2d96547a17f1be8ff4d96f4ed9c60595ae4da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.0_05e4d3d3fd2822bde2b2f95d3b2c28334f490e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6782b71473a5b0835ed32669499fba50f3302f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.0_a973e00209b5745a108757fb663ceb32c612b753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.0_231190c6b1fadc00622329c65d369a857a7567fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\volley_3101d612b2cd851fa867f0fff0a63d5e4a3a5a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.0_804cc04a16457b488e71383d723f94a3973fac93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3390368f37a1a3a42f5a7834186e440588df4c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.0_99c4ed1cf53668d9ae96ed8b4e11a8fe54ea5fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a14fee2bc7bba2661a17f691c3fba295467d60f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_489a22b9a263b011a0456dce0cc96f7ca7dccadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_079692d85544e7d3048d55dcacbe988529b9ddcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\Venus1\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cfd729e79a68337105bf470d662fe557fbdb2aa">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\Venus1-openCVLibrary310-unspecified_eafaaea0d0d7f855addeb7e533c759a66ae2266f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.0_c7ab33ae727784811d376100d6f5282174d09594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14c624b81260c8bf8a2856716dc74b988964259b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.0_f31b6271cb175844d021238ac9713aeba6badc56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.0_059d86a40898b65e986d1dd30eca9f039f5c75c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_1a5ef8739b4aa3e2fa7366a5e151012eed810f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5d57649d6566e47de73b77e4f31f989375db585e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.0_438fe41ac91b702805923ccdc313dd68b369a969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.0_ebd68439ffb36bd7cac96b20605b9456a6cf0974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_f6ee66e24a60f922409225d0e1e80bab0da3f743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_3727516198c87614c49a17faddb5ba7529b0a124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.github.siyamed\android-shape-imageview\0.9.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.github.siyamed-android-shape-imageview-0.9.3_8c6530f0bebfc3d80baa6b5b084acc3795a7b159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\Venus1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.0_39c48a8b5b0946a44dbcf11a26def2254037000d.jar" />
+    </item>
+
+</items>
